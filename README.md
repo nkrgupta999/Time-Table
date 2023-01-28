@@ -5,6 +5,10 @@ This GitHub repository is a collection of time tables for universities. It conta
 ## Contents
 
 The tables are organized by institution and term, making it easy to find the information you need.
+https://nkrgupta999.github.io/Time-Table/
+
+## View
+https://nkrgupta999.github.io/Time-Table/Time-Table.html
 
 ## Contributing
 
