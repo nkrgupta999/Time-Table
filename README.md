@@ -27,8 +27,8 @@ This repository is open source and contributions are welcome. If you have update
 Please note that the information contained in this repository is provided for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information contained in this repository for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
 
-## LinkedIn 
-https://www.linkedin.com/in/nitin-kumar-gupta-038297169/
+## LinkedIn
+https://www.linkedin.com/in/nkrgupta999
 
 ## Connect 
-https://linktr.ee/nk_gupta999
+https://linktr.ee/nkrgupta999
